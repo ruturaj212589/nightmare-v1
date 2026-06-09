@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Example Game 1",
+    "appid": 123456,
+    "path": "C:/Games/ExampleGame1"
+  },
+  {
+    "name": "Example Game 2",
+    "appid": 789012,
+    "path": "C:/Games/ExampleGame2"
+  }
+]
